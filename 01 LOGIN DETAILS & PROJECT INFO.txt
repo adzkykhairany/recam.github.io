@@ -1,0 +1,17 @@
+**Database Name: recam
+
+
+
+**Customer Login Details**
+
+Username: lucas
+Password: password
+
+
+**Staff Login Details**
+
+Username: harry
+Password: password
+
+Username: jenny
+Password: jenny
